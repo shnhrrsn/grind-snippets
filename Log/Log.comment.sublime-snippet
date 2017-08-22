@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Log.comment('${1:message}')
+]]></content>
+	<tabTrigger>Log.comment</tabTrigger>
+	<scope>source.js</scope>
+	<description>Add a comment log.</description>
+</snippet>

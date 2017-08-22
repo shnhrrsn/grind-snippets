@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Log.warn('${1:message}')
+]]></content>
+	<tabTrigger>Log.warn</tabTrigger>
+	<scope>source.js</scope>
+	<description>Add a warning log.</description>
+</snippet>

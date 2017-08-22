@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Log.error('${1:message}', ${2:err})
+]]></content>
+	<tabTrigger>Log.error</tabTrigger>
+	<scope>source.js</scope>
+	<description>Add an error log.</description>
+</snippet>

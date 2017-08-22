@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Log.success('${1:message}')
+]]></content>
+	<tabTrigger>Log.success</tabTrigger>
+	<scope>source.js</scope>
+	<description>Add a success log.</description>
+</snippet>
